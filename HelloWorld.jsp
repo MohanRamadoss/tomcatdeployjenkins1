@@ -6,6 +6,6 @@
 	</head>
 
 	<body>
-		<h4>Success  Push from GIT version1 </h4>
+		<h1>Success  Push from GIT version1 </h1>
 	</body>
 </html>
